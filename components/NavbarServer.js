@@ -1,7 +1,7 @@
-import Image from 'next/image';
-import Link from 'next/link';
 import data from '@/data/data.json';
 import Logo from '@/public/logo/logo.png';
+import Image from 'next/image';
+import Link from 'next/link';
 
 const NavbarServer = ({ activeSection, isMobileMenuOpen, toggleMobileMenu, isScrolled, path }) => {
     const { navtext, email } = data.data;
@@ -15,7 +15,7 @@ const NavbarServer = ({ activeSection, isMobileMenuOpen, toggleMobileMenu, isScr
                     }`}
             >
                 <Link href="/" className="flex items-center rtl:space-x-reverse">
-                    <Image src={Logo} height={25} width={25} alt="Vandit Shah - Logo" priority={true}
+                    <Image src={Logo} height={25} width={25} alt="Mohit Patel - Logo" priority={true}
                         loading="eager" />
                     <span className="ml-2 self-center text-xl md:text-2xl font-semibold whitespace-nowrap text-white font-mono uppercase">
                         {navtext}

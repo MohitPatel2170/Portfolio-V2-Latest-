@@ -1,6 +1,6 @@
 import data from '@/data/data.json'
-import Typewriter from './UI/Typewriter'
 import DynamicButton from './UI/DynamicButton'
+import Typewriter from './UI/Typewriter'
 import VideoBG from './UI/VideoBG'
 
 const Hero = () => {

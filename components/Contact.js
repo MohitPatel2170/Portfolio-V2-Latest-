@@ -1,6 +1,5 @@
-import data from '@/data/data.json'
-import SectionHeader from './UI/SectionHeader'
-import Image from 'next/image'
+import data from '@/data/data.json';
+import SectionHeader from './UI/SectionHeader';
 
 const Contact = () => {
 
@@ -22,27 +21,27 @@ const Contact = () => {
                 <div className='mt-8'>
                     <div className="flex items-center justify-left space-x-10">
                         <a href={socialLinks.github} target='_blank'>
-                            <Image
-                                src='https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg'
-                                alt="Github Icon with Vandit Shah's Github Link"
+                            <img
+                                src="/socials/github (1).svg"
+                                alt="Github Icon with Mohit Patel's Github Link"
                                 height={37}
                                 width={37}
                                 className="object-contain"
                             />
                         </a>
                         <a href={socialLinks.linkedin} target='_blank'>
-                            <Image
-                                src='https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin-dark.svg'
-                                alt="Linkedin Icon with Vandit Shah's Linkedin Link"
+                            <img
+                                src="/socials/linkedin-brands-solid-full.svg"
+                                alt="Linkedin Icon with Mohit Patel's Linkedin Link"
                                 height={40}
                                 width={40}
                                 className="object-contain"
                             />
                         </a>
-                        <a href={socialLinks.medium} target='_blank' >
-                            <Image
-                                src='https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/medium-dark.svg'
-                                alt="Medium Icon with Vandit Shah's Medium Link"
+                        <a href={socialLinks.instagram} target='_blank' >
+                            <img
+                                src="/socials/instagram (1).svg"
+                                alt="Medium Icon with Mohit Patel's Instagram Link"
                                 height={40}
                                 width={40}
                                 className="object-contain"

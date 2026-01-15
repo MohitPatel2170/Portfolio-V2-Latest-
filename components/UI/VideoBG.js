@@ -1,6 +1,6 @@
 'use client';
 import Image from 'next/image';
-import React, { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 
 const VideoBG = () => {
   const videoRef = useRef(null);
@@ -90,7 +90,7 @@ const VideoBG = () => {
         height={0}
         sizes="100vw"
         style={{ width: '100%', height: '100%', display: showImage ? 'block' : 'none' }}
-        alt="Vandit Shah - Portfolio Background"
+        alt="Mohit Patel - Portfolio Background"
         className="absolute z-10 w-full h-full max-h-screen object-cover rounded-2xl"
       />
     </div>

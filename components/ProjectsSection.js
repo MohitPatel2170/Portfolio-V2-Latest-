@@ -1,9 +1,9 @@
 'use client'
-import React, { useState } from 'react';
-import data from '@/data/data.json'
+import data from '@/data/data.json';
+import Link from 'next/link';
+import { useState } from 'react';
 import ProjectCard from './UI/ProjectCard';
 import SectionHeader from './UI/SectionHeader';
-import Link from 'next/link';
 
 const ProjectsSection = () => {
 

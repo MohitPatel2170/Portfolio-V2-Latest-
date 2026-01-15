@@ -1,6 +1,6 @@
 'use client';
-import React, { useState, useEffect } from 'react';
-import { usePathname } from 'next/navigation'
+import { usePathname } from 'next/navigation';
+import { useEffect, useState } from 'react';
 import NavbarServer from './NavbarServer';
 
 const NavbarClient = () => {

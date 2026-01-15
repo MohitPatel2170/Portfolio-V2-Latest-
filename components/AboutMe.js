@@ -1,6 +1,6 @@
 import data from '@/data/data.json'
-import SectionHeader from './UI/SectionHeader'
 import Image from 'next/image'
+import SectionHeader from './UI/SectionHeader'
 
 const AboutMe = () => {
 
@@ -14,13 +14,13 @@ const AboutMe = () => {
                 <div className="flex flex-col md:flex-row">
                     <div className="p-0 md:p-6 w-full xl:w-34/100">
                         <Image
-                            src="/images/vandit-shah-headshot.png"
+                            src="/images/Portfolio-Headshot.jpeg"
                             width={0}
                             height={0}
                             sizes="100vw"
                             style={{ width: '100%' }}
                             className='rounded-lg object-cover w-full lg:w-140 h-full hover:scale-101 transition duration-300 ease-in-out'
-                            alt="Vandit Shah - Full-Stack Web Developer Headshot"
+                            alt="Mohit Patel - Full-Stack Web Developer Image  "
                         />
                     </div>
                     <div className='p-0 md:p-6 mt-6 md:mt-0 w-full xl:w-66/100 align-middle items-center'>

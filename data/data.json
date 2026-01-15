@@ -1,14 +1,14 @@
 {
     "data": {
-        "fullName": "Vandit Shah",
-        "navtext": "Vandit Shah",
-        "email": "shahvandit8@gmail.com",
+        "fullName": "Mohit Patel",
+        "navtext": "Mohit Patel",
+        "email": "mohit.patel2170@gmail.com",
         "titleArray": [
             "Full-Stack Web Developer",
             "Software Developer",
-            "Blockchain Enthusiast"
+            "Frontend Developer"
         ],
-        "resumeLink": "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/ShahVandit8/repo-storage/refs/heads/main/myportfolio/resume/resume.pdf",
+        "resumeLink": "https://drive.google.com/file/d/1RzDBxpftDSqyeXuWRyTSb2tjcbHdLrpB/view",
         "skills": [
             "/icons/JavaScript.png",
             "/icons/React.png",
@@ -179,21 +179,21 @@
             }
         ],
         "about": {
-            "main": "I’m Vandit, a budding full-stack web developer based in Toronto, Canada. Since my first coding adventure in 8th grade, I’ve been hooked on technology.",
+            "main": "I’m Mohit, a budding full-stack web developer based in Jaipur, India. Since my first coding adventure in 1st year, I’ve been hooked on technology.",
             "skills": [
                 "Software Development",
                 "Full Stack Development",
-                "Blockchain Development"
+                "Frontend Development"
             ],
-            "journey": "B.C.A. graduate, now exploring Blockchain at York University. I blend design and development to craft innovative solutions.",
+            "journey": "B.Tech graduate in Computer Science, now exploring different Technologies to build powerful web apps. I blend design and development to craft innovative solutions.",
             "passion": "In recent years, I’ve dived into coding, building robust front-end stacks and tackling real-world challenges. I’m passionate about making a difference through technology.",
             "connect": "Explore my portfolio and let’s connect for collaborations!"
         },
         "socialLinks": {
-            "github": "https://github.com/ShahVandit8",
-            "linkedin": "https://www.linkedin.com/in/shah-vandit/",
-            "medium": "https://medium.com/@shahvandit8",
-            "instagram": "https://www.instagram.com/shahvandit8/"
+            "github": "https://github.com/MohitPatel2170",
+            "linkedin": "https://www.linkedin.com/in/mohitpatel2170/",
+            "medium": "https://medium.com/@mohitself2170",
+            "instagram": "https://www.instagram.com/its_unq_mohit/"
         }
     }
 }
